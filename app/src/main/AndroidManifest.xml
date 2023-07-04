@@ -22,6 +22,9 @@
             android:name=".onboarding.OnBoardingThreeActivity"
             android:exported="false" />
         <activity
+            android:name=".SignInActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
