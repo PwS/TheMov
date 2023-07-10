@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.TheMov" parent="Base.Theme.TheMov" />
+
+
+    <style name="AppTheme.noActionBar." parent="Theme.AppCompat.Light.NoActionBar"/>
 </resources>
