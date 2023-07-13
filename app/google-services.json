@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337088899472",
+    "firebase_url": "https://themov-55c14-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "themov-55c14",
+    "storage_bucket": "themov-55c14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337088899472:android:91ad5a59aafb96f9fb6b15",
+        "android_client_info": {
+          "package_name": "com.pws.themov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337088899472-is1c15o52iglvs2hpieiar294gu637dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92JTYSGfaabbJqA0nBI5jXNug1CC0rzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337088899472-is1c15o52iglvs2hpieiar294gu637dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

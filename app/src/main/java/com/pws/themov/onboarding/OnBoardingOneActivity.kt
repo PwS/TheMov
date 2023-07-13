@@ -3,21 +3,25 @@ package com.pws.themov.onboarding
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.pws.themov.R
+import com.pws.themov.databinding.ActivityOnBoardingOneBinding
 import com.pws.themov.sign.SignInActivity
-import kotlinx.android.synthetic.main.activity_on_boarding_one.*
 
 class OnBoardingOneActivity : AppCompatActivity() {
+
+    private lateinit var binding: ActivityOnBoardingOneBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_on_boarding_one)
+        binding = ActivityOnBoardingOneBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        btn_home.setOnClickListener {
+
+        binding.btnHome.setOnClickListener {
             val intent = Intent(this@OnBoardingOneActivity, OnBoardingTwoActivity::class.java)
             startActivity(intent)
         }
 
-        btn_daftar.setOnClickListener {
+        binding.btnDaftar.setOnClickListener {
             ///RemoveAllPageBeforeCurrentPage
             finishAffinity()
 
