@@ -1,4 +1,4 @@
-package com.pws.themov.sign
+package com.pws.themov.sign.sign_up
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

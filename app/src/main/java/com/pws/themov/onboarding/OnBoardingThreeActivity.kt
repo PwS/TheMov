@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.pws.themov.databinding.ActivityOnBoardingThreeBinding
-import com.pws.themov.sign.SignInActivity
+import com.pws.themov.sign.sign_in.SignInActivity
 
 class OnBoardingThreeActivity : AppCompatActivity() {
 

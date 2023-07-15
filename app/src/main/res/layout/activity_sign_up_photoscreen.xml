@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBlue"
-    tools:context=".sign.SignUpPhotoScreenActivity">
+    tools:context=".sign.sign_up.SignUpPhotoScreenActivity">
 
     <Button
         android:id="@+id/button2"

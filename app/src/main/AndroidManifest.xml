@@ -37,13 +37,13 @@
             android:name=".onboarding.OnBoardingThreeActivity"
             android:exported="false" />
         <activity
-            android:name=".sign.SignInActivity"
+            android:name=".sign.sign_in.SignInActivity"
             android:exported="false" />
         <activity
-            android:name=".sign.SignUpActivity"
+            android:name=".sign.sign_up.SignUpActivity"
             android:exported="false" />
         <activity
-            android:name=".sign.SignUpPhotoScreenActivity"
+            android:name=".sign.sign_up.SignUpPhotoScreenActivity"
             android:exported="false" />
         <activity
             android:name=".checkout.CheckoutActivity"
