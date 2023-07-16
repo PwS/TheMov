@@ -1,0 +1,126 @@
+{
+  "Film": {
+    "Avengers": {
+      "desc": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "director": "robby",
+      "genre": "action",
+      "judul": "Avengers",
+      "play": {
+        "thomas": {
+          "nama": "thomas",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster": "https://upload.wikimedia.org/wikipedia/id/f/f9/TheAvengers2012Poster.jpg",
+      "rating": "8.5"
+    },
+    "Frozen": {
+      "desc": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "directors": "Chris Buck, Jennifer Lee",
+      "genre": "comedy",
+      "judul": "Frozen",
+      "play": {
+        "ariel": {
+          "nama": "ariel",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg",
+      "rating": "7.3"
+    },
+    "Hustlers": {
+      "desc": "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.",
+      "director": "Lorene Scafaria",
+      "genre": "Crime",
+      "judul": "Hustlers",
+      "play": {
+        "ariel": {
+          "nama": "ariel",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "rating": "6.4"
+    },
+    "Midway": {
+      "desc": "The story of the Battle of Midway, told by the leaders and the sailors who fought it.",
+      "director": "Roland Emmerich",
+      "genre": "Action",
+      "judul": "Midway",
+      "play": {
+        "ariel": {
+          "nama": "ariel",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      },
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_SY1000_SX800_AL_.jpg",
+      "rating": "6.9"
+    }
+  },
+  "User": {
+    "1": {
+      "email": "bagicode@gmail.com",
+      "nama": "Robby Dianputra",
+      "password": "1",
+      "saldo": "500000",
+      "url": "https://th.bing.com/th/id/R.c68f81082d59285a4b2fae43f7778772?rik=tVn5GUk8crzqaA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fUser-Profile-PNG-Clipart.png&ehk=XjMZT9I1logRUJAs%2bo2aZelxooUclPwYXWlh3%2b7V9g0%3d&risl=&pid=ImgRaw&r=0",
+      "username": "1"
+    },
+    "A1": {
+      "balance": "",
+      "email": "A1@gmail.com",
+      "name": "1",
+      "password": "A1",
+      "urlPictureProfile": "",
+      "userName": "A1"
+    },
+    "A2": {
+      "balance": "",
+      "email": "A2@gmail.com",
+      "name": "2",
+      "password": "A2",
+      "urlPictureProfile": "",
+      "userName": "A2"
+    },
+    "A3": {
+      "balance": "",
+      "email": "A3@gmail.com",
+      "name": "3",
+      "password": "A3",
+      "urlPictureProfile": "",
+      "userName": "A3"
+    },
+    "A4": {
+      "balance": "",
+      "email": "A4@GMAIL.COM",
+      "name": "A4",
+      "password": "A4",
+      "urlPictureProfile": "",
+      "userName": "A4"
+    },
+    "a5": {
+      "balance": "",
+      "email": "a5",
+      "name": "a5",
+      "password": "a5",
+      "urlPictureProfile": "",
+      "userName": "a5"
+    },
+    "a6": {
+      "balance": "",
+      "email": "a6",
+      "name": "a6",
+      "password": "a6",
+      "urlPictureProfile": "",
+      "userName": "a6"
+    },
+    "a7": {
+      "balance": "",
+      "email": "a7",
+      "name": "a7",
+      "password": "a7",
+      "urlPictureProfile": "",
+      "userName": "a7"
+    }
+  }
+}

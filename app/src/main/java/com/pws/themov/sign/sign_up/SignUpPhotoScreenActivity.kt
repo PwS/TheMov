@@ -1,12 +1,18 @@
 package com.pws.themov.sign.sign_up
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.pws.themov.R
+import androidx.appcompat.app.AppCompatActivity
+import com.pws.themov.databinding.ActivitySignUpPhotoscreenBinding
 
 class SignUpPhotoScreenActivity : AppCompatActivity() {
+
+    private lateinit var binding: ActivitySignUpPhotoscreenBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sign_up_photoscreen)
+        binding = ActivitySignUpPhotoscreenBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+
+
     }
 }
