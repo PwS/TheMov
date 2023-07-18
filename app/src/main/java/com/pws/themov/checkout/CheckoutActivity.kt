@@ -1,14 +1,17 @@
 package com.pws.themov.checkout
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.pws.themov.R
+import androidx.appcompat.app.AppCompatActivity
+import com.pws.themov.databinding.ActivityCheckoutBinding
 
 class CheckoutActivity : AppCompatActivity() {
 
+    private lateinit var binding: ActivityCheckoutBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_checkout)
+        binding = ActivityCheckoutBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
     }
 }
