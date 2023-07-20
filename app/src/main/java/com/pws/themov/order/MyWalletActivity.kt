@@ -1,14 +1,16 @@
 package com.pws.themov.order
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.pws.themov.R
+import androidx.appcompat.app.AppCompatActivity
+import com.pws.themov.databinding.ActivityMyWalletBinding
 
 class MyWalletActivity : AppCompatActivity() {
 
+    private lateinit var binding: ActivityMyWalletBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_my_wallet)
+        binding = ActivityMyWalletBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
     }
 }
