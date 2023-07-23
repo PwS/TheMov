@@ -26,7 +26,6 @@ class SignInActivity : AppCompatActivity() {
     private lateinit var mDatabase: DatabaseReference
     private lateinit var preferences: Preferences
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySignInBinding.inflate(layoutInflater)

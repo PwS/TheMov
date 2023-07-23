@@ -14,7 +14,6 @@ import com.pws.themov.sign.models.User
 
 class SignUpActivity : AppCompatActivity() {
 
-
     private lateinit var sUserName: String
     private lateinit var sPassword: String
     private lateinit var sName: String
